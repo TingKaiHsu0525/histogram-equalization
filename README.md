@@ -1,6 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/passing-gray?label=build&labelColor=gray&color=green) ![Static Badge](https://img.shields.io/badge/53%25-gray?label=Verilog&labelColor=gray&color=violet) ![Static Badge](https://img.shields.io/badge/36.9%25-gray?label=Jupyter&labelColor=gray&color=orange) ![Static Badge](https://img.shields.io/badge/10.1%25-gray?label=Python&labelColor=gray&color=navy)
 
 # histogram-equalization
+通過拉伸影像的像素強度分佈範圍來增強圖像對比度，適用於過曝或背光的圖片，運用累積分布函數(CDF)對灰度值進行調整以實現對比度增強,把原始圖像的灰度直方圖從比較集中的某個灰度區間變成在全部灰度範圍內的均勻分佈
 
 *  原始圖形
   
