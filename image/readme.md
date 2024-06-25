@@ -1,1 +1,1 @@
-Input image dara
+*  Input image data
