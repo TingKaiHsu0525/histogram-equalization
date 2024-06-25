@@ -1,6 +1,6 @@
 # histogram-equalization
 
-##功能
+## 功能
 *  使用verilog實現直方圖等化
 *  使用testbench檢驗功能正常
 *  Synthesis模擬預計使用面積(Area)、時間(Time)、功率(Power)
