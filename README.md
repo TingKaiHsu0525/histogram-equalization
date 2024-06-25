@@ -9,6 +9,7 @@
 
 ## 結果
 *  輸出圖形
+
   ![image](https://github.com/TingKaiHsu0525/histogram-equalization/assets/145333999/a04d47c9-f247-47ee-bc93-c1f76a48a0f7)
 *  Synthesis
     *    面積
