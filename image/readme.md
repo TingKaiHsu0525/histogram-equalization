@@ -1,1 +1,1 @@
-*  Input image data
+# **Input image data**
