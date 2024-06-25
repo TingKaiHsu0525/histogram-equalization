@@ -22,6 +22,7 @@
      
       ![image](https://github.com/TingKaiHsu0525/histogram-equalization/assets/145333999/3cadcae0-4b80-4b1d-bf40-bf99cd9e6469)
     *    轉換表格記憶體(Transformed Table Memory)
+      
       ![image](https://github.com/TingKaiHsu0525/histogram-equalization/assets/145333999/e520a05f-37f5-4d75-877c-7c7953abe642)
 
 *  Synthesis
