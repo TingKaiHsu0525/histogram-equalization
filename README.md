@@ -1,6 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/passing-gray?label=build&labelColor=gray&color=green) ![Static Badge](https://img.shields.io/badge/53%25-gray?label=Verilog&labelColor=gray&color=violet) ![Static Badge](https://img.shields.io/badge/36.9%25-gray?label=Jupyter&labelColor=gray&color=orange) ![Static Badge](https://img.shields.io/badge/10.1%25-gray?label=Python&labelColor=gray&color=navy)
 
-
 # histogram-equalization
 
 *  原始圖形
