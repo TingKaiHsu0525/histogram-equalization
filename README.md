@@ -1,5 +1,10 @@
 # histogram-equalization
 
+*  原始圖形
+  
+  ![image](https://github.com/TingKaiHsu0525/histogram-equalization/assets/145333999/3bcfb296-baba-439c-811d-bb1232f5dced)
+
+
 ## 功能
 *  使用verilog實現直方圖等化
 *  使用testbench檢驗功能正常
@@ -11,6 +16,10 @@
 *  輸出圖形
 
   ![image](https://github.com/TingKaiHsu0525/histogram-equalization/assets/145333999/a04d47c9-f247-47ee-bc93-c1f76a48a0f7)
+*  直方圖等化前後對比
+  
+  ![image](https://github.com/TingKaiHsu0525/histogram-equalization/assets/145333999/8f24522c-79f6-4e44-8b0f-981d1f76aab2)
+
 *  Modelsim
     *    波形(Waveform)
    
