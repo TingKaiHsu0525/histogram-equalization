@@ -11,6 +11,19 @@
 *  輸出圖形
 
   ![image](https://github.com/TingKaiHsu0525/histogram-equalization/assets/145333999/a04d47c9-f247-47ee-bc93-c1f76a48a0f7)
+*  Modelsim
+    *    波形(Waveform)
+   
+      ![image](https://github.com/TingKaiHsu0525/histogram-equalization/assets/145333999/4e104530-9c12-4756-929c-460d2fccc862)
+    *    直方圖記憶體(Histogram Memory)
+      
+      ![image](https://github.com/TingKaiHsu0525/histogram-equalization/assets/145333999/9036e904-3f24-4893-a6c1-513bbb7a9e60)
+    *    累積分布函數記憶體(CDF Memory)
+     
+      ![image](https://github.com/TingKaiHsu0525/histogram-equalization/assets/145333999/3cadcae0-4b80-4b1d-bf40-bf99cd9e6469)
+    *    轉換表格記憶體(Transformed Table Memory)
+      ![image](https://github.com/TingKaiHsu0525/histogram-equalization/assets/145333999/e520a05f-37f5-4d75-877c-7c7953abe642)
+
 *  Synthesis
     *    面積(Area)
    
